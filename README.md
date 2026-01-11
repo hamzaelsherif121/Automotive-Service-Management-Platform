@@ -169,7 +169,3 @@ This project is private and proprietary.
 For inquiries about this project, please reach out through the repository's issue tracker.
 
 ---
-
-<p align="center">
-  Built with ❤️ using Next.js and Supabase
-</p>
